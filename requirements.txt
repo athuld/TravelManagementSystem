@@ -1,0 +1,7 @@
+Django
+pylint
+Pillow
+django-crispy-forms
+django-material-admin
+psycopg2
+django-tabular-export
