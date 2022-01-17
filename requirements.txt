@@ -1,7 +1,9 @@
-Django
+Django==3.0.10
 pylint
 Pillow
 django-crispy-forms
-django-material-admin
-psycopg2
+django-material-admin==1.7.16
+psycopg2==2.8.6
 django-tabular-export
+pgadmin4
+gevent
